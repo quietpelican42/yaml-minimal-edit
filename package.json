@@ -1,0 +1,46 @@
+{
+  "name": "yaml-minimal-edit",
+  "version": "0.1.0",
+  "description": "Edit YAML by splicing bytes into the original text. Comments, blank lines, indentation, quote style, flow style and key order stay as they were.",
+  "keywords": ["yaml", "edit", "patch", "preserve", "comments", "format-preserving", "splice", "round-trip", "cst"],
+  "license": "MIT",
+  "author": "__AUTHOR__",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/__GH_OWNER__/yaml-minimal-edit.git"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=20.6.0"
+  },
+  "bin": {
+    "yaml-minimal-edit": "./dist/cli.js"
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  },
+  "files": ["dist"],
+  "scripts": {
+    "test": "node --test \"test/*.test.ts\"",
+    "typecheck": "tsc --noEmit",
+    "build": "rm -rf dist && tsc -p tsconfig.build.json",
+    "corpus": "node bench/fetch-corpus.ts",
+    "bench:setup": "npm ci --prefix bench/incumbents && npm ci --prefix bench/incumbents/legacy",
+    "bench": "node bench/incumbents.ts",
+    "fuzz": "node bench/fuzz.ts",
+    "prepublishOnly": "npm run typecheck && npm test && npm run build && npm run test:dist",
+    "test:dist": "node --test test/smoke.mjs"
+  },
+  "dependencies": {
+    "yaml": "^2.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "typescript": "^5.7.0"
+  }
+}

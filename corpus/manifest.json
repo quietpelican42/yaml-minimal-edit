@@ -1,0 +1,560 @@
+[
+  {
+    "category": "github-workflow",
+    "repo": "actions/starter-workflows",
+    "sha": "e3c451d60f119b71caebf13c98ac45da6e15b4b7",
+    "path": "ci/ada.yml",
+    "url": "https://raw.githubusercontent.com/actions/starter-workflows/e3c451d60f119b71caebf13c98ac45da6e15b4b7/ci/ada.yml",
+    "sha256": "d94370542138f628bae29b90523a3523c09fb1fef066af3f513770b9c92bde60",
+    "bytes": 391
+  },
+  {
+    "category": "github-workflow",
+    "repo": "actions/starter-workflows",
+    "sha": "e3c451d60f119b71caebf13c98ac45da6e15b4b7",
+    "path": "ci/django.yml",
+    "url": "https://raw.githubusercontent.com/actions/starter-workflows/e3c451d60f119b71caebf13c98ac45da6e15b4b7/ci/django.yml",
+    "sha256": "a0506860c0d3a7c394ffcf45185e7b3ea5381942d1c36d96e943d36561c42652",
+    "bytes": 642
+  },
+  {
+    "category": "github-workflow",
+    "repo": "actions/starter-workflows",
+    "sha": "e3c451d60f119b71caebf13c98ac45da6e15b4b7",
+    "path": "ci/ios.yml",
+    "url": "https://raw.githubusercontent.com/actions/starter-workflows/e3c451d60f119b71caebf13c98ac45da6e15b4b7/ci/ios.yml",
+    "sha256": "02df9ca356f8464d3dfe24f01de76bca283662735bf1c1ba2327b90df3b7f3a9",
+    "bytes": 2439
+  },
+  {
+    "category": "github-workflow",
+    "repo": "actions/starter-workflows",
+    "sha": "e3c451d60f119b71caebf13c98ac45da6e15b4b7",
+    "path": "ci/python-app.yml",
+    "url": "https://raw.githubusercontent.com/actions/starter-workflows/e3c451d60f119b71caebf13c98ac45da6e15b4b7/ci/python-app.yml",
+    "sha256": "8853bf7db4963fdb66fb1fb18fba6e860f5367427573d76cba8c7a411775f07d",
+    "bytes": 1204
+  },
+  {
+    "category": "github-workflow",
+    "repo": "nodejs/node",
+    "sha": "691cf6245ce585cba223192e944b6dd38e9ec71a",
+    "path": ".github/workflows/author-ready-conflicts.yml",
+    "url": "https://raw.githubusercontent.com/nodejs/node/691cf6245ce585cba223192e944b6dd38e9ec71a/.github/workflows/author-ready-conflicts.yml",
+    "sha256": "9bf0d42affd9d0595619e7c3d2c483f1165058da4c93a3dd81bf2599cb799410",
+    "bytes": 1771
+  },
+  {
+    "category": "github-workflow",
+    "repo": "nodejs/node",
+    "sha": "691cf6245ce585cba223192e944b6dd38e9ec71a",
+    "path": ".github/workflows/create-release-proposal.yml",
+    "url": "https://raw.githubusercontent.com/nodejs/node/691cf6245ce585cba223192e944b6dd38e9ec71a/.github/workflows/create-release-proposal.yml",
+    "sha256": "2e43e2603ffcadea931bf48fb17b4f62f27b2e68a67f018583eb6baf7b6aa26f",
+    "bytes": 2808
+  },
+  {
+    "category": "github-workflow",
+    "repo": "nodejs/node",
+    "sha": "691cf6245ce585cba223192e944b6dd38e9ec71a",
+    "path": ".github/workflows/notify-on-push.yml",
+    "url": "https://raw.githubusercontent.com/nodejs/node/691cf6245ce585cba223192e944b6dd38e9ec71a/.github/workflows/notify-on-push.yml",
+    "sha256": "1508294cbd16d3a4e885390c4f4902021cd4efb1ac4ab116882934078d6214b1",
+    "bytes": 3053
+  },
+  {
+    "category": "github-workflow",
+    "repo": "vercel/next.js",
+    "sha": "63bb9d6a1dfcb8bfb3ef358c0ce07e53c183d172",
+    "path": ".github/workflows/automated_code_review.yml",
+    "url": "https://raw.githubusercontent.com/vercel/next.js/63bb9d6a1dfcb8bfb3ef358c0ce07e53c183d172/.github/workflows/automated_code_review.yml",
+    "sha256": "e3d5967428e9329fcabac700f7c150f779abb6a0e6f3befb1b0e80c18ce53db6",
+    "bytes": 2247
+  },
+  {
+    "category": "github-workflow",
+    "repo": "vercel/next.js",
+    "sha": "63bb9d6a1dfcb8bfb3ef358c0ce07e53c183d172",
+    "path": ".github/workflows/pr_ci_comment.yml",
+    "url": "https://raw.githubusercontent.com/vercel/next.js/63bb9d6a1dfcb8bfb3ef358c0ce07e53c183d172/.github/workflows/pr_ci_comment.yml",
+    "sha256": "91e18dfefb1d39f22c243a7ac212cd8c4e727b9dc82c1059e55d1661e02b9990",
+    "bytes": 975
+  },
+  {
+    "category": "github-workflow",
+    "repo": "vercel/next.js",
+    "sha": "63bb9d6a1dfcb8bfb3ef358c0ce07e53c183d172",
+    "path": ".github/workflows/sync_backport_canary_release.yml",
+    "url": "https://raw.githubusercontent.com/vercel/next.js/63bb9d6a1dfcb8bfb3ef358c0ce07e53c183d172/.github/workflows/sync_backport_canary_release.yml",
+    "sha256": "d9bc68de6a82a6125f7a0c3015018450fb335c3a6c89f89cf3b6beb1891ddcce",
+    "bytes": 6414
+  },
+  {
+    "category": "github-workflow",
+    "repo": "rust-lang/cargo",
+    "sha": "523e530d77cce92813eebbf6ac009a04f2df2ac2",
+    "path": ".github/workflows/audit.yml",
+    "url": "https://raw.githubusercontent.com/rust-lang/cargo/523e530d77cce92813eebbf6ac009a04f2df2ac2/.github/workflows/audit.yml",
+    "sha256": "63124c40ff17912260eef244571d7904335d8343e65130bf6a0acc4b579967a0",
+    "bytes": 720
+  },
+  {
+    "category": "github-workflow",
+    "repo": "rust-lang/cargo",
+    "sha": "523e530d77cce92813eebbf6ac009a04f2df2ac2",
+    "path": ".github/workflows/contrib.yml",
+    "url": "https://raw.githubusercontent.com/rust-lang/cargo/523e530d77cce92813eebbf6ac009a04f2df2ac2/.github/workflows/contrib.yml",
+    "sha256": "a61155157fa941e9023c005bb5e466dae459d5543886b66c1e370a94efd89b1c",
+    "bytes": 1455
+  },
+  {
+    "category": "github-workflow",
+    "repo": "rust-lang/cargo",
+    "sha": "523e530d77cce92813eebbf6ac009a04f2df2ac2",
+    "path": ".github/workflows/main.yml",
+    "url": "https://raw.githubusercontent.com/rust-lang/cargo/523e530d77cce92813eebbf6ac009a04f2df2ac2/.github/workflows/main.yml",
+    "sha256": "2dcd5c7cd3d356d76a75d5a2e598019eb16bb652d75370907090c3406321e41b",
+    "bytes": 13290
+  },
+  {
+    "category": "kubernetes",
+    "repo": "kubernetes/examples",
+    "sha": "d6b8cd27eacb51e651a1aa6f7c190a28713eff6e",
+    "path": "AI/model-serving-tensorflow/deployment.yaml",
+    "url": "https://raw.githubusercontent.com/kubernetes/examples/d6b8cd27eacb51e651a1aa6f7c190a28713eff6e/AI/model-serving-tensorflow/deployment.yaml",
+    "sha256": "756b5937b5c69baf871968f80cc6231983fb0daee74a62bd2bde9c3fc8faa73c",
+    "bytes": 820
+  },
+  {
+    "category": "kubernetes",
+    "repo": "kubernetes/examples",
+    "sha": "d6b8cd27eacb51e651a1aa6f7c190a28713eff6e",
+    "path": "_archived/javaee/mysql-pod.yaml",
+    "url": "https://raw.githubusercontent.com/kubernetes/examples/d6b8cd27eacb51e651a1aa6f7c190a28713eff6e/_archived/javaee/mysql-pod.yaml",
+    "sha256": "da3bf369cbe9eda261f1e55c92edb7e9572d5ebc18e89b7bf28121efe8436ded",
+    "bytes": 469
+  },
+  {
+    "category": "kubernetes",
+    "repo": "kubernetes/examples",
+    "sha": "d6b8cd27eacb51e651a1aa6f7c190a28713eff6e",
+    "path": "_archived/storage/rethinkdb/rc.yaml",
+    "url": "https://raw.githubusercontent.com/kubernetes/examples/d6b8cd27eacb51e651a1aa6f7c190a28713eff6e/_archived/storage/rethinkdb/rc.yaml",
+    "sha256": "fad40bebe80778a89e8cc8cb5568ca72961415522901ef2de9a2ffe369d37c7b",
+    "bytes": 845
+  },
+  {
+    "category": "kubernetes",
+    "repo": "kubernetes/examples",
+    "sha": "d6b8cd27eacb51e651a1aa6f7c190a28713eff6e",
+    "path": "_archived/volumes/cephfs/cephfs-with-secret.yaml",
+    "url": "https://raw.githubusercontent.com/kubernetes/examples/d6b8cd27eacb51e651a1aa6f7c190a28713eff6e/_archived/volumes/cephfs/cephfs-with-secret.yaml",
+    "sha256": "dc8c7dd486a337cafa78ec854a9dea6727fb4b791866a2a479158532126b52ff",
+    "bytes": 403
+  },
+  {
+    "category": "kubernetes",
+    "repo": "kubernetes/examples",
+    "sha": "d6b8cd27eacb51e651a1aa6f7c190a28713eff6e",
+    "path": "_archived/volumes/rbd/rbd.yaml",
+    "url": "https://raw.githubusercontent.com/kubernetes/examples/d6b8cd27eacb51e651a1aa6f7c190a28713eff6e/_archived/volumes/rbd/rbd.yaml",
+    "sha256": "e33b06ad2760530f3c8ad97aadb77c3fb65200da2127f21190eaa1baba0b291a",
+    "bytes": 529
+  },
+  {
+    "category": "kubernetes",
+    "repo": "argoproj/argocd-example-apps",
+    "sha": "8088f4c0d970abb09e250248cc97e35623447cb5",
+    "path": "applicationset/appset-any-ns-invalid.yaml",
+    "url": "https://raw.githubusercontent.com/argoproj/argocd-example-apps/8088f4c0d970abb09e250248cc97e35623447cb5/applicationset/appset-any-ns-invalid.yaml",
+    "sha256": "ad42ba1bb5bc6d711dea30eed28468befb44ea1e64898bf5e9f593b73876afa9",
+    "bytes": 749
+  },
+  {
+    "category": "kubernetes",
+    "repo": "argoproj/argocd-example-apps",
+    "sha": "8088f4c0d970abb09e250248cc97e35623447cb5",
+    "path": "sock-shop/base/carts-dep.yaml",
+    "url": "https://raw.githubusercontent.com/argoproj/argocd-example-apps/8088f4c0d970abb09e250248cc97e35623447cb5/sock-shop/base/carts-dep.yaml",
+    "sha256": "ccacba1337d13ad8b7960979fead977feeedcd5ff47e353e007c68aefecc8e57",
+    "bytes": 1493
+  },
+  {
+    "category": "helm-values",
+    "repo": "prometheus-community/helm-charts",
+    "sha": "c7187606c560945ef07a065848a78bc424912def",
+    "path": "charts/alertmanager-snmp-notifier/values.yaml",
+    "url": "https://raw.githubusercontent.com/prometheus-community/helm-charts/c7187606c560945ef07a065848a78bc424912def/charts/alertmanager-snmp-notifier/values.yaml",
+    "sha256": "58f540a14b4efe36a8e08bf82b0ffaa1dc9867ce748683277bfed4f13705820e",
+    "bytes": 6499
+  },
+  {
+    "category": "helm-values",
+    "repo": "prometheus-community/helm-charts",
+    "sha": "c7187606c560945ef07a065848a78bc424912def",
+    "path": "charts/prometheus-ipmi-exporter/values.yaml",
+    "url": "https://raw.githubusercontent.com/prometheus-community/helm-charts/c7187606c560945ef07a065848a78bc424912def/charts/prometheus-ipmi-exporter/values.yaml",
+    "sha256": "f2202006541c5c9d66e4ae8c95ff197e71bb5e10ca0d69d4be78567135938c60",
+    "bytes": 6730
+  },
+  {
+    "category": "helm-values",
+    "repo": "prometheus-community/helm-charts",
+    "sha": "c7187606c560945ef07a065848a78bc424912def",
+    "path": "charts/prometheus-pingmesh-exporter/values.yaml",
+    "url": "https://raw.githubusercontent.com/prometheus-community/helm-charts/c7187606c560945ef07a065848a78bc424912def/charts/prometheus-pingmesh-exporter/values.yaml",
+    "sha256": "a1de9276a780baae5645b373ab72f8ee4c1a6555a1311264a829b26bedd4245e",
+    "bytes": 13656
+  },
+  {
+    "category": "helm-values",
+    "repo": "grafana/helm-charts",
+    "sha": "434266a8ba2e1e859b58d82084d976cc411580cc",
+    "path": "charts/agent-operator/values.yaml",
+    "url": "https://raw.githubusercontent.com/grafana/helm-charts/434266a8ba2e1e859b58d82084d976cc411580cc/charts/agent-operator/values.yaml",
+    "sha256": "114505c4425bebb384726c5a4fb5e453c15a608834371d0e46fb91c12b2f1a7f",
+    "bytes": 1904
+  },
+  {
+    "category": "helm-values",
+    "repo": "grafana/helm-charts",
+    "sha": "434266a8ba2e1e859b58d82084d976cc411580cc",
+    "path": "charts/lgtm-distributed/values.yaml",
+    "url": "https://raw.githubusercontent.com/grafana/helm-charts/434266a8ba2e1e859b58d82084d976cc411580cc/charts/lgtm-distributed/values.yaml",
+    "sha256": "ab0bd6e84cb8a9820cdc3746c667f39154db1d72c80675c38c2a06b7e3f5191b",
+    "bytes": 3260
+  },
+  {
+    "category": "helm-values",
+    "repo": "grafana/helm-charts",
+    "sha": "434266a8ba2e1e859b58d82084d976cc411580cc",
+    "path": "charts/promtail/ci/netpol-values.yaml",
+    "url": "https://raw.githubusercontent.com/grafana/helm-charts/434266a8ba2e1e859b58d82084d976cc411580cc/charts/promtail/ci/netpol-values.yaml",
+    "sha256": "ae001dc5ebdf968a9b82dec1051689f9d6e4279d6c9de6b2ac9da53ad0ca2255",
+    "bytes": 1621
+  },
+  {
+    "category": "helm-values",
+    "repo": "argoproj/argo-helm",
+    "sha": "1a56752e6b5b52107c185654733df18b6c1e5b27",
+    "path": "charts/argo-events/values.yaml",
+    "url": "https://raw.githubusercontent.com/argoproj/argo-helm/1a56752e6b5b52107c185654733df18b6c1e5b27/charts/argo-events/values.yaml",
+    "sha256": "c7426cb7cf8deb1f337cfbbc045abe55a4c878cad61037d986cdcaa8bafd2425",
+    "bytes": 17009
+  },
+  {
+    "category": "helm-values",
+    "repo": "argoproj/argo-helm",
+    "sha": "1a56752e6b5b52107c185654733df18b6c1e5b27",
+    "path": "charts/argo-rollouts/values.yaml",
+    "url": "https://raw.githubusercontent.com/argoproj/argo-helm/1a56752e6b5b52107c185654733df18b6c1e5b27/charts/argo-rollouts/values.yaml",
+    "sha256": "3b389f43523f7dea6b9aa18d5ae5008ca5aa7efda27b1fccb1920bc6d640c09b",
+    "bytes": 19754
+  },
+  {
+    "category": "helm-values",
+    "repo": "argoproj/argo-helm",
+    "sha": "1a56752e6b5b52107c185654733df18b6c1e5b27",
+    "path": "charts/argo-workflows/values.yaml",
+    "url": "https://raw.githubusercontent.com/argoproj/argo-helm/1a56752e6b5b52107c185654733df18b6c1e5b27/charts/argo-workflows/values.yaml",
+    "sha256": "424f0fb58a6847960d76d0b3bc6950bcd1132083d3d384808903fcb5b7034c72",
+    "bytes": 44519
+  },
+  {
+    "category": "helm-values",
+    "repo": "traefik/traefik-helm-chart",
+    "sha": "222b949017fb79992a4fbf5de96f5b4c4bcae6db",
+    "path": "hack/migrate/expected-v41-values.yaml",
+    "url": "https://raw.githubusercontent.com/traefik/traefik-helm-chart/222b949017fb79992a4fbf5de96f5b4c4bcae6db/hack/migrate/expected-v41-values.yaml",
+    "sha256": "5cfc1786edeed4fe10648597a6f8a0ab9b3e45814c3d13a8d7960cb6463ca966",
+    "bytes": 730
+  },
+  {
+    "category": "helm-values",
+    "repo": "traefik/traefik-helm-chart",
+    "sha": "222b949017fb79992a4fbf5de96f5b4c4bcae6db",
+    "path": "hack/migrate/sample-v40-values.yaml",
+    "url": "https://raw.githubusercontent.com/traefik/traefik-helm-chart/222b949017fb79992a4fbf5de96f5b4c4bcae6db/hack/migrate/sample-v40-values.yaml",
+    "sha256": "96ce97f64571bc9766e78afaaf24d89aab565af2665d8d7163934fed17c177a6",
+    "bytes": 808
+  },
+  {
+    "category": "compose",
+    "repo": "docker/awesome-compose",
+    "sha": "30f4b7f6a6c3b0c0ecf4d4efb0de203c48d11562",
+    "path": "aspnet-mssql/compose.yaml",
+    "url": "https://raw.githubusercontent.com/docker/awesome-compose/30f4b7f6a6c3b0c0ecf4d4efb0de203c48d11562/aspnet-mssql/compose.yaml",
+    "sha256": "955543d83647c2e172573eb3da806c10c67daa273a629fee3e193d5aa0511285",
+    "bytes": 671
+  },
+  {
+    "category": "compose",
+    "repo": "docker/awesome-compose",
+    "sha": "30f4b7f6a6c3b0c0ecf4d4efb0de203c48d11562",
+    "path": "nextcloud-postgres/compose.yaml",
+    "url": "https://raw.githubusercontent.com/docker/awesome-compose/30f4b7f6a6c3b0c0ecf4d4efb0de203c48d11562/nextcloud-postgres/compose.yaml",
+    "sha256": "ca85b31a0a22ac61e52d7a618c70421783ef722fb59021ee920fdd9f7f7b5b9c",
+    "bytes": 550
+  },
+  {
+    "category": "compose",
+    "repo": "docker/awesome-compose",
+    "sha": "30f4b7f6a6c3b0c0ecf4d4efb0de203c48d11562",
+    "path": "nginx-flask-mysql/compose.yaml",
+    "url": "https://raw.githubusercontent.com/docker/awesome-compose/30f4b7f6a6c3b0c0ecf4d4efb0de203c48d11562/nginx-flask-mysql/compose.yaml",
+    "sha256": "9243a613ba323bbe1994cb5a1d33a519c94affc261ad0d5d00c8afa0b5559cbe",
+    "bytes": 1239
+  },
+  {
+    "category": "compose",
+    "repo": "docker/awesome-compose",
+    "sha": "30f4b7f6a6c3b0c0ecf4d4efb0de203c48d11562",
+    "path": "nginx-wsgi-flask/compose.yaml",
+    "url": "https://raw.githubusercontent.com/docker/awesome-compose/30f4b7f6a6c3b0c0ecf4d4efb0de203c48d11562/nginx-wsgi-flask/compose.yaml",
+    "sha256": "874c70026ce1654969af9b0e6b9960985e7a7ed28cdbf1620f54c1bd5b4a2f0e",
+    "bytes": 734
+  },
+  {
+    "category": "compose",
+    "repo": "docker/awesome-compose",
+    "sha": "30f4b7f6a6c3b0c0ecf4d4efb0de203c48d11562",
+    "path": "prometheus-grafana/compose.yaml",
+    "url": "https://raw.githubusercontent.com/docker/awesome-compose/30f4b7f6a6c3b0c0ecf4d4efb0de203c48d11562/prometheus-grafana/compose.yaml",
+    "sha256": "3ec0e164f5563c134cedcc531b10927ecd21de297ae0ed3cf35d397090dd585b",
+    "bytes": 598
+  },
+  {
+    "category": "compose",
+    "repo": "docker/awesome-compose",
+    "sha": "30f4b7f6a6c3b0c0ecf4d4efb0de203c48d11562",
+    "path": "react-rust-postgres/compose.yaml",
+    "url": "https://raw.githubusercontent.com/docker/awesome-compose/30f4b7f6a6c3b0c0ecf4d4efb0de203c48d11562/react-rust-postgres/compose.yaml",
+    "sha256": "f8dc6217ae46f04c0a0dd8895119eb8ff1f871f67e9b3a48536a37543a2637e8",
+    "bytes": 956
+  },
+  {
+    "category": "openapi",
+    "repo": "OAI/learn.openapis.org",
+    "sha": "bbb743ed3b7c5ed76b6e6ba9b302af38f3956c44",
+    "path": "examples/v2.0/yaml/api-with-examples.yaml",
+    "url": "https://raw.githubusercontent.com/OAI/learn.openapis.org/bbb743ed3b7c5ed76b6e6ba9b302af38f3956c44/examples/v2.0/yaml/api-with-examples.yaml",
+    "sha256": "7a10daca44dba5c82e896e9455593ede653dbf6d56401d31544c9ffb904ccfb1",
+    "bytes": 6103
+  },
+  {
+    "category": "openapi",
+    "repo": "OAI/learn.openapis.org",
+    "sha": "bbb743ed3b7c5ed76b6e6ba9b302af38f3956c44",
+    "path": "examples/v2.0/yaml/petstore.yaml",
+    "url": "https://raw.githubusercontent.com/OAI/learn.openapis.org/bbb743ed3b7c5ed76b6e6ba9b302af38f3956c44/examples/v2.0/yaml/petstore.yaml",
+    "sha256": "9fdb0fc3767861fcd86811901165a930c2c3102edbbcc20e4efb13064bfc44c7",
+    "bytes": 2185
+  },
+  {
+    "category": "openapi",
+    "repo": "OAI/learn.openapis.org",
+    "sha": "bbb743ed3b7c5ed76b6e6ba9b302af38f3956c44",
+    "path": "examples/v3.0/petstore.yaml",
+    "url": "https://raw.githubusercontent.com/OAI/learn.openapis.org/bbb743ed3b7c5ed76b6e6ba9b302af38f3956c44/examples/v3.0/petstore.yaml",
+    "sha256": "cefaafa05eee75b1888762dea08a295f245e9f3e4bdb8777f4bdfed09e335339",
+    "bytes": 2766
+  },
+  {
+    "category": "gitlab-ci",
+    "repo": "rocky-linux/peridot",
+    "sha": "0f0a4331930380b44dd6d6309b550aa3ce0dc44f",
+    "path": ".gitlab-ci.yml",
+    "url": "https://raw.githubusercontent.com/rocky-linux/peridot/0f0a4331930380b44dd6d6309b550aa3ce0dc44f/.gitlab-ci.yml",
+    "sha256": "b27b6bc63644d1749387c8f2fd6e80beff8a8f084fe8d3a45db9c6be7a77a3ad",
+    "bytes": 700
+  },
+  {
+    "category": "gitlab-ci",
+    "repo": "oofnikj/docker-openwrt",
+    "sha": "bc7f46c93c354041864d6a4eed7332b9f20ff5bc",
+    "path": ".gitlab-ci.yml",
+    "url": "https://raw.githubusercontent.com/oofnikj/docker-openwrt/bc7f46c93c354041864d6a4eed7332b9f20ff5bc/.gitlab-ci.yml",
+    "sha256": "1b06780500a804ab55b7195afb6545b568f69e0f864d163b7cfdaeabf91b3b25",
+    "bytes": 1477
+  },
+  {
+    "category": "gitlab-ci",
+    "repo": "rambler-digital-solutions/rambler-ui",
+    "sha": "a237e416929cabffd83162032d02888d228d1bd3",
+    "path": ".gitlab-ci.yml",
+    "url": "https://raw.githubusercontent.com/rambler-digital-solutions/rambler-ui/a237e416929cabffd83162032d02888d228d1bd3/.gitlab-ci.yml",
+    "sha256": "48b15cad6a0253d95eefc7ed438df6dc1beae5516fdc11b3da9e4d36ade4b351",
+    "bytes": 2891
+  },
+  {
+    "category": "gitlab-ci",
+    "repo": "USNavalResearchLaboratory/simdissdk",
+    "sha": "6264211bae87ba2acb263f6b4cdd6fb3d547250a",
+    "path": ".gitlab-ci.yml",
+    "url": "https://raw.githubusercontent.com/USNavalResearchLaboratory/simdissdk/6264211bae87ba2acb263f6b4cdd6fb3d547250a/.gitlab-ci.yml",
+    "sha256": "4ce6e9e9a737b4ea9ce8b3db37158d356f27debb2c0ac30411600b9505aca730",
+    "bytes": 663
+  },
+  {
+    "category": "gitlab-ci",
+    "repo": "espressif/esp-azure",
+    "sha": "15ef01eed2840d11d6e33ac5606c1ae71d2119bd",
+    "path": ".gitlab-ci.yml",
+    "url": "https://raw.githubusercontent.com/espressif/esp-azure/15ef01eed2840d11d6e33ac5606c1ae71d2119bd/.gitlab-ci.yml",
+    "sha256": "270db92c2b9f7328d871534f2043a62e820ef090efb04e4f48036d4f41f144eb",
+    "bytes": 2376
+  },
+  {
+    "category": "gitlab-ci",
+    "repo": "erlang/docker-erlang-example",
+    "sha": "20e91e4bbdc392d80adfed835b82fb165ebdc22d",
+    "path": ".gitlab-ci.yml",
+    "url": "https://raw.githubusercontent.com/erlang/docker-erlang-example/20e91e4bbdc392d80adfed835b82fb165ebdc22d/.gitlab-ci.yml",
+    "sha256": "f75646d3bd8a38dcc9210457431a51bf93a7bd1303eaed504c8c87bba9233df5",
+    "bytes": 1280
+  },
+  {
+    "category": "gitlab-ci",
+    "repo": "KDE/plasma-workspace",
+    "sha": "75fe5bb7214f485b90f7b0502249579de5b89eab",
+    "path": ".gitlab-ci.yml",
+    "url": "https://raw.githubusercontent.com/KDE/plasma-workspace/75fe5bb7214f485b90f7b0502249579de5b89eab/.gitlab-ci.yml",
+    "sha256": "e175c4a4f0323cd0220ddb9961c2cf6d8c961b36c8a517049a4792280f32916d",
+    "bytes": 785
+  },
+  {
+    "category": "dependabot",
+    "repo": "OAI/learn.openapis.org",
+    "sha": "bbb743ed3b7c5ed76b6e6ba9b302af38f3956c44",
+    "path": ".github/dependabot.yml",
+    "url": "https://raw.githubusercontent.com/OAI/learn.openapis.org/bbb743ed3b7c5ed76b6e6ba9b302af38f3956c44/.github/dependabot.yml",
+    "sha256": "c987a60b55b39df9320fe10a421c46add0603447f07a72f4e503b6a4cc589973",
+    "bytes": 551
+  },
+  {
+    "category": "dependabot",
+    "repo": "nodejs/node",
+    "sha": "691cf6245ce585cba223192e944b6dd38e9ec71a",
+    "path": ".github/dependabot.yml",
+    "url": "https://raw.githubusercontent.com/nodejs/node/691cf6245ce585cba223192e944b6dd38e9ec71a/.github/dependabot.yml",
+    "sha256": "200445d7684f4eb89d99b8db37c52b0a12de391af926268919ffa05f5608719f",
+    "bytes": 1482
+  },
+  {
+    "category": "dependabot",
+    "repo": "python/cpython",
+    "sha": "969af80daf09fcd2ce8f358e5f9d54e75f8ef330",
+    "path": ".github/dependabot.yml",
+    "url": "https://raw.githubusercontent.com/python/cpython/969af80daf09fcd2ce8f358e5f9d54e75f8ef330/.github/dependabot.yml",
+    "sha256": "8a549c3b61600a0f23abb3a3127c974af4762c09b3df74df799a62f29a68e583",
+    "bytes": 3363
+  },
+  {
+    "category": "dependabot",
+    "repo": "psf/requests",
+    "sha": "611c6162cbc4ac2020a2f91c7cfa4f3abf9bbb60",
+    "path": ".github/dependabot.yml",
+    "url": "https://raw.githubusercontent.com/psf/requests/611c6162cbc4ac2020a2f91c7cfa4f3abf9bbb60/.github/dependabot.yml",
+    "sha256": "d2c9890d77ab9a95fa05938b7594d2911d50fc444af1cf5943c3c1a2789a26c1",
+    "bytes": 705
+  },
+  {
+    "category": "dependabot",
+    "repo": "cli/cli",
+    "sha": "9b031151a825bda919203c5202876a725d637368",
+    "path": ".github/dependabot.yml",
+    "url": "https://raw.githubusercontent.com/cli/cli/9b031151a825bda919203c5202876a725d637368/.github/dependabot.yml",
+    "sha256": "d10e3bb460ccff9dcf268f2828af2ae18bc5c2c3470191d63ac0c9e733da0d10",
+    "bytes": 556
+  },
+  {
+    "category": "dependabot",
+    "repo": "fastapi/fastapi",
+    "sha": "c30032a1b68fb36c03fffe1856369d3824607c7c",
+    "path": ".github/dependabot.yml",
+    "url": "https://raw.githubusercontent.com/fastapi/fastapi/c30032a1b68fb36c03fffe1856369d3824607c7c/.github/dependabot.yml",
+    "sha256": "2d83f8e694583bc487ba7a77616171f448d309a80c072d615c16d9b12987e0ed",
+    "bytes": 639
+  },
+  {
+    "category": "dependabot",
+    "repo": "pytest-dev/pytest",
+    "sha": "2887015cade4757385308e7a7d8083557fc637e2",
+    "path": ".github/dependabot.yml",
+    "url": "https://raw.githubusercontent.com/pytest-dev/pytest/2887015cade4757385308e7a7d8083557fc637e2/.github/dependabot.yml",
+    "sha256": "b59ff7bd5137ef0581ac1d0d0877516eba53e5ff6d6cea433fa7fea392d19c98",
+    "bytes": 435
+  },
+  {
+    "category": "dependabot",
+    "repo": "hashicorp/terraform",
+    "sha": "50ffbe06bd26cb5b4d2016e47b51b43aea74a8b0",
+    "path": ".github/dependabot.yml",
+    "url": "https://raw.githubusercontent.com/hashicorp/terraform/50ffbe06bd26cb5b4d2016e47b51b43aea74a8b0/.github/dependabot.yml",
+    "sha256": "4b8cf89464a833792f53839b4674d445e11e3f6c2fdb495a0ee1d1bcc2a26813",
+    "bytes": 618
+  },
+  {
+    "category": "dependabot",
+    "repo": "docker/compose",
+    "sha": "32bddfc4c693dd1b9ed8633ff2adb2d511a07ee1",
+    "path": ".github/dependabot.yml",
+    "url": "https://raw.githubusercontent.com/docker/compose/32bddfc4c693dd1b9ed8633ff2adb2d511a07ee1/.github/dependabot.yml",
+    "sha256": "6b57f2e06c6830dc875a0fda55bb7543aebe19ffbe4849ff76ea15d70583142b",
+    "bytes": 1043
+  },
+  {
+    "category": "dependabot",
+    "repo": "helm/helm",
+    "sha": "8107b7604268a1753776c111457255cface0db83",
+    "path": ".github/dependabot.yml",
+    "url": "https://raw.githubusercontent.com/helm/helm/8107b7604268a1753776c111457255cface0db83/.github/dependabot.yml",
+    "sha256": "5961d3445124211c8b888f6d5e995c09d41ebc8539ac3bbf11ba0fd714c4434b",
+    "bytes": 1338
+  },
+  {
+    "category": "dependabot",
+    "repo": "actions/checkout",
+    "sha": "f548e57e544e1ff5a4c46bf1e1b8685f8e4a348a",
+    "path": ".github/dependabot.yml",
+    "url": "https://raw.githubusercontent.com/actions/checkout/f548e57e544e1ff5a4c46bf1e1b8685f8e4a348a/.github/dependabot.yml",
+    "sha256": "e2ba26c35a094b1f8e99044e4ca997dfe7dcb76ccc89a9b81f1d2dea773edc01",
+    "bytes": 539
+  },
+  {
+    "category": "renovate",
+    "repo": "Apadmi-Engineering/fastlane-plugin-screenshotbot",
+    "sha": "327fec27d63c4be47b016d5cc7be6f4cfa2221ff",
+    "path": "renovate.yaml",
+    "url": "https://raw.githubusercontent.com/Apadmi-Engineering/fastlane-plugin-screenshotbot/327fec27d63c4be47b016d5cc7be6f4cfa2221ff/renovate.yaml",
+    "sha256": "2347e6a5a6729c0d3522d167740141b238d7e9672123826813e4cddd7fc0d081",
+    "bytes": 156
+  },
+  {
+    "category": "renovate",
+    "repo": "rjw57/devcontainer",
+    "sha": "d9a32fbc7b8def1d0a077a21a0d9770a378dfc17",
+    "path": "renovate.yaml",
+    "url": "https://raw.githubusercontent.com/rjw57/devcontainer/d9a32fbc7b8def1d0a077a21a0d9770a378dfc17/renovate.yaml",
+    "sha256": "3c8aaf9392f314ef8cf8a182381524814be8b0f1740808e8283593dfca55aa50",
+    "bytes": 178
+  },
+  {
+    "category": "renovate",
+    "repo": "coreyjonoliver/dotfiles",
+    "sha": "6cfd95ca72233dd45efeda1c1e907c96f4c5eba6",
+    "path": "renovate.yaml",
+    "url": "https://raw.githubusercontent.com/coreyjonoliver/dotfiles/6cfd95ca72233dd45efeda1c1e907c96f4c5eba6/renovate.yaml",
+    "sha256": "c7041009e87e6f3ecb873bc0cecefc11c54039a415d17429d13db93bd8026dcc",
+    "bytes": 612
+  },
+  {
+    "category": "renovate",
+    "repo": "hmcts/cnp-flux-config",
+    "sha": "75ab097b7546d3a8a63fbff9a9dbf07eebd2e1f2",
+    "path": "apps/monitoring/version-reporter/renovate/renovate.yaml",
+    "url": "https://raw.githubusercontent.com/hmcts/cnp-flux-config/75ab097b7546d3a8a63fbff9a9dbf07eebd2e1f2/apps/monitoring/version-reporter/renovate/renovate.yaml",
+    "sha256": "fd5b3adae35cf28bb466d3da3ce97699ed4c5deb4f8890e6014fa0dabcd0eedf",
+    "bytes": 1606
+  }
+]

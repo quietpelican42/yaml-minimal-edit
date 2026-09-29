@@ -1,0 +1,23 @@
+{
+  "name": "yaml-minimal-edit-bench-incumbents",
+  "private": true,
+  "type": "module",
+  "description": "Pinned incumbents measured by bench/incumbents.ts. Not part of the published package.",
+  "dependencies": {
+    "@crewhaus/spec-patch": "0.7.0",
+    "@effected/yaml": "0.18.0",
+    "@json-render/yaml": "0.21.0",
+    "@pnpm/yaml.document-sync": "1100.0.2",
+    "@stoplight/yaml": "4.3.0",
+    "js-yaml": "5.4.2",
+    "yaml": "2.9.1",
+    "yaml-ast-parser": "0.0.43",
+    "yaml-cfn": "0.3.2",
+    "yaml-diff-patch": "2.0.0",
+    "yaml-edit": "0.1.3",
+    "yaml-patch": "0.1.0",
+    "yaml-update": "0.1.2",
+    "yawn-yaml": "3.0.0",
+    "yml-in-place": "1.0.2"
+  }
+}
