@@ -4,7 +4,7 @@ import { parseArgs } from 'node:util';
 import { parse as yamlParse } from 'yaml';
 import { parse } from './doc.ts';
 import { YamlEditError } from './errors.ts';
-import { raw } from './scalar.ts';
+import { Raw, raw } from './scalar.ts';
 
 const USAGE = `usage: yaml-minimal-edit <command> [options] FILE ARGS...
 
@@ -33,6 +33,19 @@ exit codes: 0 edited, 1 the edit was refused, 2 usage error or unreadable/invali
 `;
 
 class UsageError extends Error {}
+
+/** The text as a string; a quoted YAML scalar is unquoted first. */
+function yamlScalarString(text: string): string {
+  if (/^\s*["']/.test(text)) {
+    try {
+      const v = yamlParse(text);
+      if (typeof v === 'string') return v;
+    } catch {
+      // fall through: use the text as typed
+    }
+  }
+  return text;
+}
 
 function valueFrom(text: string, o: { string?: boolean; json?: boolean }): unknown {
   if (o.string) return text;
@@ -109,7 +122,15 @@ function main(argv: string[]): number {
     const eo = { document };
     const [path = '', a = '', b = ''] = rest;
     try {
-      if (cmd === 'set') doc.set(path, valueFrom(a, vopts), eo);
+      if (cmd === 'set') {
+        // An existing string stays a string unless the value is a collection or is given with -j.
+        let v: unknown;
+        if (!values.json && !values.string && doc.has(path, eo) && typeof doc.get(path, eo) === 'string') {
+          const parsed = valueFrom(a, vopts);
+          v = parsed !== null && typeof parsed === 'object' && !(parsed instanceof Raw) ? parsed : yamlScalarString(a);
+        } else v = valueFrom(a, vopts);
+        doc.set(path, v, eo);
+      }
       else if (cmd === 'delete') doc.delete(path, eo);
       else if (cmd === 'rename') doc.rename(path, a, eo);
       else if (cmd === 'append') doc.append(path, valueFrom(a, vopts), eo);
