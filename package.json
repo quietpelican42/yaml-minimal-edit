@@ -4,10 +4,10 @@
   "description": "Edit YAML by splicing bytes into the original text. Comments, blank lines, indentation, quote style, flow style and key order stay as they were.",
   "keywords": ["yaml", "edit", "patch", "preserve", "comments", "format-preserving", "splice", "round-trip", "cst"],
   "license": "MIT",
-  "author": "__AUTHOR__",
+  "author": "kofiadeyemiq",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/__GH_OWNER__/yaml-minimal-edit.git"
+    "url": "git+https://github.com/quietpelican42/yaml-minimal-edit.git"
   },
   "type": "module",
   "engines": {
